@@ -35,3 +35,10 @@ export CARLA_VERSION=0.9.11 #or 0.9.12 depends on your CARLA
 ### Result:
 No need to implement Step 8 (setup.sh). Without doing that, still working.
 
+## Clean Installation on Ubuntu 22.04.03 LTS (Docker)
+1) Clone OpenCDA
+   ```
+   git clone --no-checkout https://github.com/ucla-mobility/OpenCDA.git
+   git checkout tags/v0.1.2
+   ```
+3) 
